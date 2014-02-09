@@ -8,7 +8,7 @@
 //---------- Réalisation de la classe <Stockage> (fichier Stockage.cpp) -------
 
 //---------------------------------------------------------------- INCLUDE
-
+//
 //-------------------------------------------------------- Include système
 using namespace std;
 #include <iostream>
